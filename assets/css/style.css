@@ -5,7 +5,7 @@ body {
     height: 100vh;
     flex-direction: column;
     background: linear-gradient(45deg, #e66465, #9198e5);
-    background-image: url("images/mariobg.jpg");
+    background-image: url("../images/mariobg.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
